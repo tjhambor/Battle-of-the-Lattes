@@ -4,15 +4,15 @@
   
   The Gini coefficient, or Gini index
   - used to measure of inequality
-  - developed by Italian statistician Corrado Gini (https://ourworldindata.org/what-is-the-gini-coefficient)
+  - developed by Italian statistician Corrado Gini 
   - A Gini index of 0 represents perfect equality
-  - an index of 100 implies perfect inequality (https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI).
+  - an index of 100 implies perfect inequality 
 
-South Korea's Gini index 67.9 , the price of a tall latte is $5.11 CAD. Whereas Hungary's Gini index is 67.7 but the cost of coffee is significantly lower at only $2.69 CAD. Which is very curious. Columbia's export's coffee - that could be a factor in the pricing.
+South Korea's Gini index 67.9 , the price of a tall latte is $5.11 CAD. Whereas Hungary's Gini index is 67.7 but the cost of coffee is significantly lower at only $2.69 CAD.
 
 **What Makes Starbucks so Popular?**
 
-Starbucks values innovation, connection and loyalty.https://avada.io/resources/why-starbucks-so-popular.html. Employees are treated well which transfers to the customer and viola! - a brilliant business model. This explains why people around the world continue to frequent this coffee shop.
+Starbucks values innovation, connection and loyalty.https://avada.io/resources/why-starbucks-so-popular.html. Employees are treated well which transfers to the customer and viola! - a brilliant business model. This explains why people world wide continue to frequent this coffee shop.
 
 **The Creation Process**
 Using Jupyter Notebook, I used the processes learned throughout this course to extract and scrape the data. The steps are listed below.
@@ -39,9 +39,19 @@ The website https://www.finder.com/ca/starbucks-index supplied visual charts on 
   -  created a new table using the arrays listed above.
   -  joined both tables together to show prices in both Canadian funds and the country's specific country.
   -  using this new table, I used the barh method to visually represent the cost difference per country.
-  -  
+  -  created an Income Factor table listing all the countries and their Gini Index.
+
+**Conclusion**
+
+There was no conclusive evidence that a country's Gini index was a influencing factor on the price of a Starbucks tall latte. My intention was to create a joined table between the coffee cost and the Gini% table, unfortunately I was unable to complete this task so I have included the graph for all the countries including their Gini index.
+
 
 **5.  Secondary Source**
 
   -  found the Gini index for each country represented.
   -  discovered this index has no correlation to the price of a coffee in that region.
+
+** Work Cited**
+
+(https://ourworldindata.org/what-is-the-gini-coefficient)
+(https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SI.POV.GINI)
