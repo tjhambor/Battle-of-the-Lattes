@@ -46,6 +46,9 @@ The website https://www.finder.com/ca/starbucks-index supplied visual charts on 
   -  joined both tables together to show prices in both Canadian funds and the country's specific country.
   -  using this new table, I used the barh method to visually represent the cost difference per country.
   -  created an Income Factor table listing all the countries and their Gini Index and their Mean Wealth.
+![Tall Latte Pricing barh](https://github.com/tjhambor/Battle-of-the-Lattes/assets/152350152/c23ab4b7-b85e-4f40-8047-266c371ddc8f)
+![Mean Wealth barh-2](https://github.com/tjhambor/Battle-of-the-Lattes/assets/152350152/3735166a-35e5-46a4-ad16-1c6237c7c171)
+![Gini Index barh-3](https://github.com/tjhambor/Battle-of-the-Lattes/assets/152350152/8a10572c-0cd8-4e41-9e76-f29adde47596)
 
 
 **5.  Secondary Source**
