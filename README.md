@@ -47,6 +47,7 @@ The website https://www.finder.com/ca/starbucks-index supplied visual charts on 
   -  using this new table, I used the barh method to visually represent the cost difference per country.
   -  created an Income Factor table listing all the countries and their Gini Index and their Mean Wealth.
 
+
 **5.  Secondary Source**
 
   -  found the Gini index for each country represented.
