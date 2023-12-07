@@ -60,7 +60,7 @@ The website https://www.finder.com/ca/starbucks-index supplied visual charts on 
 
 **Conclusion**
 
-There was no conclusive evidence that a country's Gini index was a influencing factor on the price of a Starbucks tall latte. My intention was to create a joined table between the coffee cost and the Gini% table, unfortunately I was unable to complete this task so I have included the graph for all the countries including their Gini index.
+There was no evidence to support that a country's Gini index influenced the price of a Starbucks tall latte. However, the mean wealth in a country is correlated somewhat to the price difference but it is inconsistent.
 
 ** Work Cited**
 
