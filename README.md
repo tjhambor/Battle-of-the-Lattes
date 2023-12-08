@@ -25,7 +25,7 @@ Using Jupyter Notebook, I used the processes learned throughout this course to e
 
 **1.  Uploaded Data**
 
-The website https://www.finder.com/ca/starbucks-index supplied visual charts on the cost of a Starbucks tall latte which I uploaded to my notebook.
+The website https://www.finder.com/ca/starbucks-index supplied visual charts on the cost of a Starbucks tall latte which I uploaded to my notebook. 
 
 **2.  The Clean-up Process**
 
@@ -57,6 +57,7 @@ The website https://www.finder.com/ca/starbucks-index supplied visual charts on 
   -  discovered this index has no correlation to the price of a coffee in that region.
   -  found the Mean Wealth for each country represented.
   -  discovered Mean Wealth has some correlation to the price of coffee in that region.
+  -  website for secondary source https://en.wikipedia.org/wiki/List_of_countries_by_wealth_per_adult
 
 **Conclusion**
 
