@@ -1,4 +1,4 @@
-
+# Battle of the Lattes
 
 **What is Gini?**
   
